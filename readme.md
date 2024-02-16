@@ -1,6 +1,6 @@
 # AI Article Summarizer
 
-![Project Banner](https://imgur.com/a/GWLDCOo)
+![Sumz](src/assets/favicon.png)
 
 ## Description
 
